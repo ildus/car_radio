@@ -1,0 +1,12 @@
+Car radio
+---------
+
+This is a project of creating simple FM radio for car.
+
+Parts:
+
+1) LCD 1602
+2) TEA5767 chip
+3) Iskra Mini (Arduino Mini compatible with)
+4) Encoder for basic control (searching, power on/off and other)
+5) Encoder for volume (with volume chip)

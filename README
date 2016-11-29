@@ -10,3 +10,9 @@ Parts:
 3) Iskra Mini (Arduino Mini compatible with)
 4) Encoder for basic control (searching, power on/off and other)
 5) Encoder for volume (with volume chip)
+
+Libraries:
+
+TEA5767: https://github.com:andykarpov/TEA5767.git
+LiquidCrystal_I2C: https://github.com/openenergymonitor/LiquidCrystal_I2C.git
+
